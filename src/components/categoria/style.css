@@ -1,0 +1,16 @@
+.categoria a{
+    color: rgb(56, 56, 56);
+    text-decoration: none;
+}
+
+.categoria a:hover{
+    color: rgb(200, 50, 50);    
+}
+
+.categoria span{
+    font-size: 13px;
+}
+
+.img-categoria{
+    max-width: 55px;
+}

@@ -1,0 +1,14 @@
+.cardapio .classificacao{
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+}
+
+.img-estab-cardapio{
+    object-fit: cover;
+    width: 100%;
+    height: 200px;
+}
+
+.favorito{
+    cursor: pointer;
+}
